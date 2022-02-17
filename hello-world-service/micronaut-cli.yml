@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.cashstar
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, data, data-jpa, hamcrest, hibernate-jpa, hibernate-validator, http-client, java, java-application, jdbc-hikari, junit, liquibase, logback, lombok, maven, mockito, mysql, readme, shade, spring, spring-boot, spring-data-jpa, spring-web, testcontainers, undertow-server, yaml]
